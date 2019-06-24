@@ -1,0 +1,19 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "Playground for YouTube hacks",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc --watch --outDir ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "json-2-csv": "^3.5.3",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.8"
+  }
+}
